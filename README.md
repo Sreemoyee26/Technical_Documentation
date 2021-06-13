@@ -1,2 +1,2 @@
 # Technical_Documentation
-a technical doc page on JS
+a technical doc landing page on JS
